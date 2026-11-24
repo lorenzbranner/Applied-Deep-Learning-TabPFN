@@ -1,0 +1,32 @@
+prior=all  parameters=159,618
+step    100  loss 0.6941      56 s
+step    200  loss 0.6710     111 s
+step    300  loss 0.6562     168 s
+step    400  loss 0.6113     232 s
+step    500  loss 0.5946     288 s
+step    600  loss 0.5762     349 s
+step    700  loss 0.5787     406 s
+step    800  loss 0.5828     472 s
+step    900  loss 0.5641     528 s
+step   1000  loss 0.5582     582 s
+step   1100  loss 0.5633     638 s
+step   1200  loss 0.5742     703 s
+step   1300  loss 0.5519     754 s
+step   1400  loss 0.5700     814 s
+step   1500  loss 0.5707     887 s
+step   1600  loss 0.5530     949 s
+step   1700  loss 0.5711    1019 s
+step   1800  loss 0.5593    1073 s
+step   1900  loss 0.5691    1140 s
+step   2000  loss 0.5537    1197 s
+step   2100  loss 0.5628    1259 s
+step   2200  loss 0.5614    1325 s
+step   2300  loss 0.5455    1383 s
+step   2400  loss 0.5331    1436 s
+step   2500  loss 0.5384    1492 s
+step   2600  loss 0.5457    1554 s
+step   2700  loss 0.5440    1605 s
+step   2800  loss 0.5192    1654 s
+step   2900  loss 0.5478    1719 s
+step   3000  loss 0.5331    1773 s
+done in 1773 s

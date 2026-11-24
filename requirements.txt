@@ -1,0 +1,17 @@
+# Tested with Python 3.10.0 on Windows 11, CPU only, with exactly these versions.
+torch==2.9.0
+numpy==1.26.4
+scipy==1.13.0
+pandas==2.2.2
+scikit-learn==1.4.2
+matplotlib==3.8.3
+streamlit==1.44.0
+
+# The official pre-trained TabPFN v2 as a reference model (the Live tab always runs
+# it; it downloads its checkpoint on first use). The 2.0.x
+# series was published with the paper and loads its checkpoint
+# (tabpfn-v2-classifier.ckpt); newer releases fail on Python 3.10.0.
+tabpfn==2.0.9
+
+# Only for the screenshot check of the app, not needed to run it.
+# playwright

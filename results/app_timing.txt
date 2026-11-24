@@ -1,0 +1,14 @@
+  18.1 s  first load: qsar-biodeg, 0 added columns, 50 rows (TabPFN v2 always runs)  errors: none
+  10.4 s  added columns 0 -> 10  errors: none
+  14.0 s  added columns 10 -> 30  errors: none
+  21.7 s  training rows 50 -> 200  errors: none
+  24.2 s  table -> sylvine (30 added, 200 rows)  errors: none
+   3.8 s  walkthrough: draw a new table  errors: none
+   4.5 s  walkthrough: 30 columns  errors: none
+   4.0 s  walkthrough: 20 unrelated  errors: none
+   5.8 s  walkthrough: 3 hidden layers, sin in layer 3  errors: none
+   6.5 s  walkthrough: prior A  errors: none
+   3.2 s  walkthrough: prior A, draw a new table  errors: none
+   3.4 s  walkthrough: next step  errors: none
+   3.5 s  walkthrough: draw new training rows  errors: none
+   3.2 s  walkthrough: move the star  errors: none

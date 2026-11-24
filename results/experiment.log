@@ -1,0 +1,66 @@
+ada                                 0 added      35 s
+ada                                 5 added      73 s
+ada                                10 added     118 s
+ada                                20 added     178 s
+ada                                30 added     254 s
+blood-transfusion-service-center    0 added     275 s
+blood-transfusion-service-center    5 added     303 s
+blood-transfusion-service-center   10 added     339 s
+blood-transfusion-service-center   20 added     389 s
+blood-transfusion-service-center   30 added     453 s
+kc1                                 0 added     486 s
+kc1                                 5 added     524 s
+kc1                                10 added     569 s
+kc1                                20 added     631 s
+kc1                                30 added     715 s
+madeline                            0 added     750 s
+madeline                            5 added     792 s
+madeline                           10 added     840 s
+madeline                           20 added     904 s
+madeline                           30 added     984 s
+ozone-level-8hr                     0 added    1016 s
+ozone-level-8hr                     5 added    1054 s
+ozone-level-8hr                    10 added    1099 s
+ozone-level-8hr                    20 added    1163 s
+ozone-level-8hr                    30 added    1246 s
+pc4                                 0 added    1282 s
+pc4                                 5 added    1322 s
+pc4                                10 added    1370 s
+pc4                                20 added    1434 s
+pc4                                30 added    1513 s
+philippine                          0 added    1548 s
+philippine                          5 added    1585 s
+philippine                         10 added    1630 s
+philippine                         20 added    1690 s
+philippine                         30 added    1767 s
+phoneme                             0 added    1791 s
+phoneme                             5 added    1823 s
+phoneme                            10 added    1860 s
+phoneme                            20 added    1914 s
+phoneme                            30 added    1988 s
+qsar-biodeg                         0 added    2041 s
+qsar-biodeg                         5 added    2080 s
+qsar-biodeg                        10 added    2126 s
+qsar-biodeg                        20 added    2187 s
+qsar-biodeg                        30 added    2268 s
+Satellite                           0 added    2301 s
+Satellite                           5 added    2338 s
+Satellite                          10 added    2383 s
+Satellite                          20 added    2442 s
+Satellite                          30 added    2524 s
+sylvine                             0 added    2560 s
+sylvine                             5 added    2602 s
+sylvine                            10 added    2653 s
+sylvine                            20 added    2714 s
+sylvine                            30 added    2790 s
+wilt                                0 added    2814 s
+wilt                                5 added    2843 s
+wilt                               10 added    2880 s
+wilt                               20 added    2931 s
+wilt                               30 added    2997 s
+ n_added  tables  B wins  mean A  mean B  wilcoxon p
+       0      12      11  0.7634  0.7771      0.0210
+       5      12      11  0.7435  0.7607      0.0122
+      10      12      11  0.7338  0.7570      0.0034
+      20      12      12  0.7179  0.7487      0.0005
+      30      12      11  0.7079  0.7428      0.0015

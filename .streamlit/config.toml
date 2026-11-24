@@ -1,0 +1,37 @@
+# The look of the app. The interface is black, white and grey on purpose:
+# every colour on the screen is data (see style.py).
+
+[theme]
+base = "light"
+primaryColor = "#1c1c1c"              # sliders, switches, the active tab
+backgroundColor = "#ffffff"           # white projects best
+secondaryBackgroundColor = "#f0f1ee"  # sidebar and input fields
+textColor = "#1c1c1c"
+borderColor = "#d5d7d2"
+font = "Atkinson Hyperlegible, sans-serif"
+baseFontSize = 17                     # a little larger than the default 16, for the projector
+baseRadius = "0.25rem"
+showSidebarBorder = true
+
+# The font files are served from the folder static/ next to app.py.
+[[theme.fontFaces]]
+family = "Atkinson Hyperlegible"
+url = "app/static/AtkinsonHyperlegible-Regular.ttf"
+weight = 400
+
+[[theme.fontFaces]]
+family = "Atkinson Hyperlegible"
+url = "app/static/AtkinsonHyperlegible-Bold.ttf"
+weight = 700
+
+[server]
+address = "localhost"
+enableStaticServing = true
+# Streamlit's file watcher prints a harmless traceback when it inspects torch.
+fileWatcherType = "none"
+
+[client]
+toolbarMode = "minimal"               # hides the "Deploy" button
+
+[browser]
+gatherUsageStats = false
